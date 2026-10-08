@@ -1,0 +1,10 @@
+{
+  "description": "Offers customers an interactive menu and branch info while enabling owners and managers to track sales and manage daily operations via a clean dashboard.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
